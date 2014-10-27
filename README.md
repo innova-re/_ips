@@ -48,7 +48,6 @@ Existing Tools
 - Google Indoor Navigation
 - Google Maps Floor Plan Marker
 
-
 Technology adoption
 -------------------
 
@@ -58,6 +57,9 @@ Technology adoption
 
 - Radio Signal Strength Indications (RSSI) can be translated into distances from beacon points by means of theoretical or empirical radio propagation models.
 
+Development Support Tools
+-------------------------
+- [Ripple Emulator (Beta)](https://chrome.google.com/webstore/detail/ripple-emulator-beta/geelfhphabnejjhdalkjhgipohgpdnoc?hl=en), a mobile environment emulator. Ripple is targeted towards WebWorks, PhoneGap, and mobile web development and testing!
 
 Supported Platforms
 -------------------
@@ -69,7 +71,7 @@ Supported Platforms
 Keywords
 --------
 
-RSS Fingerprinting, Indoor Navigation, Wifi Access Points, Bluetooth stations, Location Patterning (Pattern Recognition) Techniques, Dijkstra’s algorithm
+Pedestrian Navigation, RSS Fingerprinting, Indoor Navigation, Wifi Access Points, Bluetooth stations, Location Patterning (Pattern Recognition) Techniques, Dijkstra’s algorithm
 
 References
 ----------
@@ -78,3 +80,6 @@ References
 - [Predictive Indoor Navigation using Commercial Smart-phones](https://www.ri.cmu.edu/pub_files/2011/12/percom-navigation-main.pdf)
 - [An Indoor Navigation System For Smartphones](www.doc.ic.ac.uk/teaching/distinguished-projects/.../a.chandgadkar.pdf)
 - Indoor Navigation on Google Maps and Indoor Localization Using RSS Fingerprinting
+- An Intelligent Multi-sensor System for Pedestrian Navigation
+- [HTML5 Mobile Geolocation Tutorial](https://www.youtube.com/watch?v=me1SLfY5hus)
+- [BackgroundGeoLocation](https://github.com/christocracy/cordova-plugin-background-geolocation)
