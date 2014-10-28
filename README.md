@@ -73,6 +73,14 @@ Keywords
 
 Pedestrian Navigation, RSS Fingerprinting, Indoor Navigation, Wifi Access Points, Bluetooth stations, Location Patterning (Pattern Recognition) Techniques, Dijkstra’s algorithm
 
+References to build an app
+--------------------------
+
+- [Ionic](http://ionicframework.com/)
+- [Ionic Restify MongoDB – An End to End Hybrid App](http://thejackalofjavascript.com/an-end-to-end-hybrid-app/)
+- [HTML5 Mobile Geolocation Tutorial](https://www.youtube.com/watch?v=me1SLfY5hus)
+- [BackgroundGeoLocation](https://github.com/christocracy/cordova-plugin-background-geolocation)
+
 References
 ----------
 
@@ -81,5 +89,3 @@ References
 - [An Indoor Navigation System For Smartphones](www.doc.ic.ac.uk/teaching/distinguished-projects/.../a.chandgadkar.pdf)
 - Indoor Navigation on Google Maps and Indoor Localization Using RSS Fingerprinting
 - An Intelligent Multi-sensor System for Pedestrian Navigation
-- [HTML5 Mobile Geolocation Tutorial](https://www.youtube.com/watch?v=me1SLfY5hus)
-- [BackgroundGeoLocation](https://github.com/christocracy/cordova-plugin-background-geolocation)
