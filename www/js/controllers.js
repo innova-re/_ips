@@ -35,12 +35,10 @@ angular.module('starter.controllers', [])
 
 .controller('PlaylistsCtrl', function($scope) {
   $scope.playlists = [
-    { title: 'Reggae', id: 1 },
-    { title: 'Chill', id: 2 },
-    { title: 'Dubstep', id: 3 },
-    { title: 'Indie', id: 4 },
-    { title: 'Rap', id: 5 },
-    { title: 'Cowbell', id: 6 }
+    { title: 'Polo Umanistico', id: 1 },
+    { title: 'Polo Scienze Sociali', id: 2 },
+    { title: 'Polo Ingegneria e Architettura', id: 3 },
+    { title: 'Polo Scientifico', id: 4 }
   ];
 })
 

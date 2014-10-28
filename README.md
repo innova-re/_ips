@@ -7,7 +7,16 @@ Prerequisites
 - Android SDK. [Installing Cordova and the Android SDK on Windows 7 and 8](http://learn.ionicframework.com/videos/windows-android/).
 - Apache Ant Java library.
 - Android 4.4.2 (API 19). Run `android` to check if you have Android 4.4.2 (API 19) installed.
-- Genymotion
+- Genymotion: [the faster android emulator](http://www.genymotion.com/)
+- Gulp.js: [the streaming build system](http://gulpjs.com/)
+
+Run
+---
+
+Depending on the platform you want to simulate, you can run:
+
+	ionic emulate android
+	ionic emulate ios
 
 Development Support Tools
 -------------------------
